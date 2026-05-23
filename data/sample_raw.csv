@@ -1,0 +1,26 @@
+Unnamed: 0,House Number,Street,First Name,Surname,Age,Relationship to Head of House,Marital Status,Gender,Occupation,Infirmity,Religion
+0,1,April Lodge,Brett,Webb,69,Head,Widowed,Male,Retired Customer service manager,,Christian
+1,2,April Lodge,Matthew,Hill,82,Head,Married,Male,Retired English as a second language teacher,,Christian
+2,2,April Lodge,Cheryl,Hill,80,Wife,Married,Female,Retired IT technical support officer,,Christian
+3,3,April Lodge,Louis,Scott,33,Head,Married,Male,Control and instrumentation engineer,,
+4,3,April Lodge,Shannon,Scott,29,Wife,Married,Female,"Psychologist, prison and probation services",,
+5,4,April Lodge,Darren,Price,45,Head,M,Male,Hydrogeologist,,Methodist
+6,4,April Lodge,Tracey,Price,43,Wife,M,F,Psychiatric nurse,,Methodist
+7,4,April Lodge,Chloe,Price,14,Daughter,S,Female,,,
+8,Five,April Lodge,Jamie,Brooks,28,Head,Single,Male,Theatre stage manager,,Catholic
+9,Five,April Lodge,Ella,Brooks,17,Daughter,S,Female,Student,,
+10,6,April Lodge,Priya,Sharma,24,Lodger,Single,Female,Student,,Hindu
+11,6,April Lodge,Tom,Sharma,55,Head,Divorced,Male,Emergency planning/management officer,,Roman Catholic
+12,7,Brown Cove,David,Clarke,41,Head,Married,Male,Chartered management accountant,,Sikh
+13,7,Brown Cove,Anita,Clarke,39,Wife,Married,Female,Radiation protection practitioner,,Sikh
+14,7,Brown Cove,Rajan,Clarke,8,Son,N/A,Male,Child,,
+15,8,Brown Cove,Gerald,Murphy,77,Head,Widowed,Male,Retired Surgeon,Mental Disability,Jedi
+16,9,Brown Cove,Sandra,Patel,38,Head,Single,Female,"Psychologist, occupational",,Christian
+17,9,Brown Cove,Leon,Patel,,Son,N/A,Male,Student,,
+18,10,Brown Cove,Kyle,Morris,26,Head,Single,Male,Unemployed,,
+19,10,Brown Cove,Amy,Walsh,25,Partner,Single,Female,Unemployed,,
+20,10,Brown Cove,Dean,Morris,58,Visitor,Married,Male,Retired Customer service manager,,Christian
+21,11,Cedar Walk,Patricia,Hughes,62,Head,Widowed,Female,Retired Psychiatric nurse,,Methodist
+22,11,Cedar Walk,Fiona,Hughes,32,Daughter,Single,Female,Emergency planning/management officer,,Methodist
+23,11,Cedar Walk,Carl,Reed,29,Lodger,Single,Male,Student,,
+24,12,Cedar Walk,Nora,Benson,seventy one,Head,Widowed,Female,Retired IT technical support officer,Mental Disability,Christian
