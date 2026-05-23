@@ -65,12 +65,10 @@ The decision matrix forced me to be explicit about what I was actually optimisin
 
 Projection models are only as good as their assumptions. I documented what I assumed (fertility rates, mortality curves, migration) so the output is auditable, not just a number.
 
-## Tech
-
+## Technology
 Python, pandas, numpy, matplotlib, seaborn, scipy, word2number
 
 ## Files
-
 `Census_Data_Analysis.ipynb` contains the full pipeline, including all outputs.
 
 Dataset not included — university assessment data.
